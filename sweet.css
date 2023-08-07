@@ -1,0 +1,129 @@
+header{
+    display: flex;
+    
+    background-image:linear-gradient(pink,black) ;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 20px;
+
+
+    
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-size: large;
+    
+}
+body{
+    background-image: url();
+}
+nav{
+    margin-left: 250px;
+}
+.grid {
+    
+    
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.m img{
+    border-radius: 10%;
+}
+
+#Shop h1{
+text-align: center;
+font-size: large;
+font-weight: 400;
+color: blue;
+text-decoration: double;
+
+}
+body{
+    background-image: url("gulab-jamun.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+.grid1{
+    
+    
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px;
+   
+}
+#wedding{
+    text-align: center;
+}
+.grid2{
+    
+    
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px;
+   
+}
+#gifting {
+    text-align: center;
+    
+}
+#About h1{
+    text-align: center;
+
+}
+#move{
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    overflow: auto auto;
+    white-space: nowrap;
+}
+#move .slide{
+display: inline-block;
+}
+.grid3{
+    
+    
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px;
+   
+}
+#review h1{
+     text-align: center;
+}
+.ROW{
+    display: flex;
+    
+}
+.grid4{
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+   padding: 20px;
+   background-color: aqua;
+   margin-left: 20px;
+   margin-bottom: 200px;
+
+}
+.inputbox{
+    color: antiquewhite;
+    width: 400px;
+    height: 120px;
+}
+#contact h1{
+    text-align: center;
+    
+}
+footer{
+    text-align: center;
+    background-color: black;
+}
